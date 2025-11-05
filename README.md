@@ -5,16 +5,16 @@
 ZAS is a 16-bit environment old-school adventure game on the Windows 3.x terminal built with the TurboC/C++ compiler (v3.2.2, 1992).
 
 ## Contents
-- [Background](https://github.com/jay-io/ZAS-16#background)
-- [Loadscreen shot](https://github.com/jay-io/ZAS-16#hello-world)
-- [Documentation](https://github.com/jay-io/ZAS-16#documentation)
-- [Run](https://github.com/jay-io/ZAS-16#run)
-  - [Windows](https://github.com/jay-io/ZAS-16#windows)
-  - [Ubuntu](https://github.com/jay-io/ZAS-16#ubuntu-or-refer-to-your-distro-specific-packages)
-  - [macOS](https://github.com/jay-io/ZAS-16#macos)
-- [Build](https://github.com/jay-io/ZAS-16#build)
-- [Authors & Contributors](https://github.com/jay-io/ZAS-16#authors--contributors)
-- [License](https://github.com/jay-io/ZAS-16#license)
+- [Background](https://github.com/hexed0ut/TurboZAS#background)
+- [Loadscreen shot](https://github.com/hexed0ut/TurboZAS#hello-world)
+- [Documentation](https://github.com/hexed0ut/TurboZAS#documentation)
+- [Run](https://github.com/hexed0ut/TurboZAS#run)
+  - [Windows](https://github.com/hexed0ut/TurboZAS#windows)
+  - [Ubuntu](https://github.com/hexed0ut/TurboZAS#ubuntu-or-refer-to-your-distro-specific-packages)
+  - [macOS](https://github.com/hexed0ut/TurboZAS#macos)
+- [Build](https://github.com/hexed0ut/TurboZAS#build)
+- [Authors & Contributors](https://github.com/hexed0ut/TurboZAS#authors--contributors)
+- [License](https://github.com/hexed0ut/TurboZAS#license)
 
 ## Background
 
@@ -24,7 +24,7 @@ The program uses the ancient 1989 C++ 2.0 ([C with Classes and more](https://en.
 
 ## Hello World
 
-<p align="center"><img width="100%" src="https://github.com/jay-io/ZAS-16/blob/b09f81c93e23058f3b0514b872b0796963f350eb/assets/zas.png" /></p>
+<p align="center"><img width="100%" src="https://github.com/hexed0ut/TurboZAS/blob/b09f81c93e23058f3b0514b872b0796963f350eb/assets/zas.png" /></p>
 
 ## Documentation
 The project documentation can be found in the [`docs`](./docs) folder.
@@ -102,10 +102,8 @@ tc
   4. `File` ➜ `Open` the source `C:\TURBOC3\SOURCE\ZAS.CPP` in a new window ➜ `Run` ➜ `Run (Ctrl + F9)`. This will build the 16-bit binary in the path [`C:\TURBOC3\SOURCE`](./bin/TURBOC3/SOURCE/) and run it on the terminal. An additional binary data file labelled `PLAYPROF.DAT` will be created which will store the user profiles and player statistics.
 
 ## Authors & Contributors
-- [Jayanta Pandit](mailto:jay.dnb@outlook.in)
-- [Abesh Roy](mailto:abeshroyargentina@gmail.com)
-- [Sourish Mandal](https://github.com/where-are-you-pleading-face)
-- [Kunal Samanta](https://instagram.com/kun_sam02)
+- [Abesh Roy](mailto:abesh.roy@outlook.com)
+- [Jayanta Pandit](https://linkedin.com/in/hexed0ut)
 
 ## Contributions
 Contributions are closed. This is an archived project and we treat the codebase as an artefact.
